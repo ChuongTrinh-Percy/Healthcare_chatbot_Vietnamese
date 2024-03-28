@@ -1,0 +1,12 @@
+flask
+nltk
+tensorflow
+keras
+pandas
+numpy
+pyvi
+underthesea
+datasets
+collections
+unicodedata
+matplotlib
